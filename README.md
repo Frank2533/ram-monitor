@@ -2,6 +2,8 @@
 
 A small floating RAM monitor for Linux (X11 / GNOME).
 
+![RAM Monitor screenshot](docs/screenshot.png)
+
 - Always on top, visible on every workspace, survives **Super+D** (show desktop)
 - Translucent, and **click-through**: clicks go to the app underneath
 - Shows used / free / total RAM with a colour-coded bar (green < 70%, amber < 90%, red ≥ 90%)
